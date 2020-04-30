@@ -8,6 +8,9 @@ void toUpper(char a[]){
 }	
 void toLower(char b[]){
 	printf("Converted string to Lower Case");
+}
+void newFunc(){
+	print("This is a new func");
 }	
 void main(){
 	char a[10];
