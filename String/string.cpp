@@ -1,10 +1,13 @@
 #include<stdio.h>
 
 void greetings(char hello[]){
-	printf("called");
+	printf("called \n%s",hello);
 }
-void toUpper(string a){
+void toUpper(char a[]){
 	printf("Converted string to Upper Case");
+}	
+void toLower(char b[]){
+	printf("Converted string to Lower Case");
 }	
 void main(){
 	char a[10];
