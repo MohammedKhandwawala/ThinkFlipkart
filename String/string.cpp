@@ -5,6 +5,9 @@ void greetings(char hello[]){
 }
 void toUpper(char a[]){
 	printf("Converted string to Upper Case");
+}
+void toTitle(char a[]){
+	print("Converted to caps");
 }	
 void toLower(char b[]){
 	printf("Converted string to Lower Case");
