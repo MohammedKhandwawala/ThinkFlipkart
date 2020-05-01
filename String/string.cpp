@@ -6,6 +6,10 @@ void greetings(char hello[]){
 void toUpper(char a[]){
 	printf("Converted string to Upper Case");
 }
+//edit in origin master
+void myFunc(){
+	printf("This edit is in Origin");
+}
 void toTitle(char a[]){
 	print("Converted to caps");
 }	
